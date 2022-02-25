@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EdawKin
 - 👀 I’m interested in making App and Games
 - 🌱 I’m currently learning Unreal Engine 4
-- 💞️ I’m looking to collaborate on in making App as well as making games
+- 💞️ I’m looking to collaborate on making App as well as making games
 - 📫 How to reach me amantokbi@gmail.com
 
 <!---
