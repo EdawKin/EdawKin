@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @EdawKin
-- 👀 I’m interested in making App and Games
-- 🌱 I’m currently learning Unreal Engine 4
-- 💞️ I’m looking to collaborate on making App as well as making games
-- 📫 How to reach me amantokbi@gmail.com
-
-<!---
-EdawKin/EdawKin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🎮💻 I build apps and games, with a strong focus on interactive experiences
+- 🚀 Experienced with Unreal Engine and continuously exploring new tools & workflows
+- 🛠️ Interested in game development, app development, and creative tech
+- 🤝 Open to collaborations on apps, games, and experimental projects
+- 📫 Reach me at amantokbi@gmail.com
