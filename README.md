@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EdawKin
 - 🎮💻 I build apps and games, with a strong focus on interactive experiences
-- 🚀 Experienced with Unreal Engine and continuously exploring new tools & workflows
+- 🚀 Experienced with Unreal Engine, Unity, and continuously exploring new tools & workflows
 - 🛠️ Interested in game development, app development, and creative tech
 - 🤝 Open to collaborations on apps, games, and experimental projects
 - 📫 Reach me at amantokbi@gmail.com
