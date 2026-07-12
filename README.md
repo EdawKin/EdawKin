@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @EdawKin
-- 🎮💻 I build apps and games, with a strong focus on interactive experiences
-- 🚀 Experienced with Unreal Engine, Unity, and continuously exploring new tools & workflows
-- 🛠️ Interested in game development, app development, and creative tech
-- 🤝 Open to collaborations on apps, games, and experimental projects
+- 🎮💻 I build full-stack apps, games, and AI systems with a strong focus on interactive experiences.
+- 🧠 Currently engineering a new programming language, ADLE, and developing emergent AI architectures.
+- 🚀 Creator of [Cabzi](https://cabzi.in), a fully operational full-stack application.
+- 📊 Deeply interested in game development, data-driven pattern analysis for game mechanics, and creative tech.
+- 🛠️ Experienced with Unreal Engine, Unity, and continuously exploring new tools & workflows.
+- 🤝 Open to collaborations on apps, games, AI, and experimental tech projects.
 - 📫 Reach me at amantokbi@gmail.com
