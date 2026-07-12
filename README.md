@@ -8,6 +8,7 @@ I am a multi-disciplinary developer bridging the gap between interactive game ex
   - **[Cabzi](https://cabzi.co.in)** - A complete full-stack web application.
   - **[Cultural Affairs KAAC](https://culturalaffairskaac.org)** - Official government web portal.
   - **[KarbiTech](https://karbitech.in)** - Custom web platform.
+- 🔒 **Note on my GitHub:** Many of my enterprise, government, and client projects are hosted in private repositories due to NDAs and employer confidentiality.
 - 🛠️ **Interested in:** Language/Compiler design, AI architecture, game development, and creative tech.
 - 🤝 **Let's collaborate!** I am open to working on experimental projects, web apps, and games.
 - 📫 **Reach me at:** amantokbi@gmail.com
